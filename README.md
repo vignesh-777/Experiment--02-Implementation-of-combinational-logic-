@@ -1,6 +1,6 @@
 # Experiment 02  Implementation-of-combinational-logic
 Implementation of combinational logic gates
- #### REGESTER NUMBER:23005542
+ #### REGISTER NUMBER:23005542
  #### NAME:VIGNESH.R
 ### AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
